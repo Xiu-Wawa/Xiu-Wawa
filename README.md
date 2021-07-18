@@ -3,8 +3,8 @@ I am a self-taught Programmer. I have participated a lots of projects especially
 
 Skills: Python, C++, Arduino, Troubleshooting
 
-- 🔭 I’m currently working on Book Counter Project 
-- 🌱 I’m currently learning Machine Learning; Computer Vision 
+- 🔭 I’m currently working on Book Counter Project @CuriosCirc
+- 🌱 I’m currently learning Computer Vision and Advance Python
 - 📫 How to reach me: joshuaclet2@gmail.com 
 
 
