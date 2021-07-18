@@ -7,6 +7,7 @@
 <br />
 
 **Languages and Tools:**
+
 code><img height="20" src="https://raw.githubusercontent.com/dabideee13/explore/master/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/dabideee13/explore/master/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/dabideee13/explore/master/topics/terminal/terminal.png"></code>
@@ -25,7 +26,7 @@ code><img height="20" src="https://raw.githubusercontent.com/dabideee13/explore/
 ![Profile views](https://gpvc.arturio.dev/Xiu-Wawa)  
 
 
-![Dabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabideee13&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabideee13&theme=radical&langs_count=10&hide=jupyter%20notebook,html "Dabids' Top Languages Card")
+![Dabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiu-Wawa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabideee13&theme=radical&langs_count=10&hide=jupyter%20notebook,html "Dabids' Top Languages Card")
 :---------------------------------------------------------------------------------------------------------------------:|:--------------:
 
 
