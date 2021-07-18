@@ -18,16 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/dabideee13/explore/master/topics/git/git.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiu-Wawa)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiu-Wawa&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xiu-Wawa)  
-
-![Profile views](https://gpvc.arturio.dev/Xiu-Wawa)  
-
-
-![Dabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiu-Wawa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiu-Wawa&theme=radical&langs_count=10&hide=jupyter%20notebook,html "Xiu_Wawa' Top Languages Card")
+![Xiu-Wawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiu-Wawa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiu-Wawa&theme=radical&langs_count=10&hide=jupyter%20notebook,html "Xiu_Wawa' Top Languages Card")
 :---------------------------------------------------------------------------------------------------------------------:|:--------------:
 
 
