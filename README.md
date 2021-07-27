@@ -3,7 +3,7 @@
 
 Skills: Python, C++, Arduino, Troubleshooting & Debugging Codes
 
-- 🔭 I’m currently working on Book Counter Project @CuriosCirc
+- 🔭 I’m currently working on Book Counter Project @TheCuriosCirc
 - 🌱 I’m currently learning Computer Vision and Advance Python
 - 📫 How to reach me: joshuaclet2@gmail.com 
 
