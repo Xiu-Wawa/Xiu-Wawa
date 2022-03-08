@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Josh~😎
-  I am a self-taught Programmer. I have done a lots of projects especially  on Arduino. I can assist on hardware and software technicalities. I currently studying BS       Electronics Engineering in MSU-IIT.
+  I am a self-taught Programmer. I have done a lots of projects especially  on Arduino. Currently Studying BS Computer Science in MSU-IIT.
 
 Skills: Python, C++, Arduino, Troubleshooting & Debugging Codes
 
-- 🔭 I’m currently working on Book Counter Project @TheCuriosCirc
 - 🌱 I’m currently learning Computer Vision and Advance Python
 - 📫 How to reach me: joshuaclet2@gmail.com 
 
