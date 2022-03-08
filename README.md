@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Josh~😎
-  I am a self-taught Programmer. I have done a lots of projects especially  on Arduino. Currently Studying BS Computer Science in MSU-IIT.
+  I am a self-taught Programmer. I have done a lots of projects especially  on Arduino. I'm currently studying BS Computer Science in MSU-IIT.
 
 Skills: Python, C++, Arduino, Troubleshooting & Debugging Codes
 
