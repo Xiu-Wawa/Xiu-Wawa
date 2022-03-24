@@ -2,6 +2,7 @@
   I am a self-taught Programmer. I have done a lots of projects especially on Arduino. Robotics and Automation is my kind of thing.                                
 
 
+
 Skills: Python, C++, Arduino, Troubleshooting & Debugging Codes
 
 - 🌱 I’m currently learning Computer Vision and Advance Python
