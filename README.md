@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Josh</h1>
-<h3 align="center">I am a self-taught Programmer. I have done a lots of projects especially on Arduino. Create, develop, and chill😎~.`</h3>
+### Hi there 👋, I'm Josh~😎
+  I am a self-taught Programmer. I have done a lots of projects especially on Arduino. Robotics and Automation is my kind of thing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiu-wawa&label=Profile%20views&color=0e75b6&style=flat" alt="xiu-wawa" /> </p>
 
