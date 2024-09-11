@@ -1,23 +1,21 @@
-### Hi there 👋, I'm Josh~😎
-  I am a self-taught Programmer. I have done a lots of projects especially on Arduino. 
+# 💫 About Me:
+When I’m not coding, you’ll find me conquering online games or leveling up my programming skills. I see every bug as a new challenge, just like a hidden level waiting to be unlocked!<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiu-wawa&label=Profile%20views&color=0e75b6&style=flat" alt="xiu-wawa" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision and Machine Learning**
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xiu-Wawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xiu-Wawa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiu-Wawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Arduino: hardware & software**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Xiu-Wawa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **joshuaclet2@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Xiu-Wawa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiu-wawa&show_icons=true&locale=en&layout=compact" alt="xiu-wawa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiu-wawa&show_icons=true&locale=en" alt="xiu-wawa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiu-wawa&" alt="xiu-wawa" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
